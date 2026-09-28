@@ -1,0 +1,14 @@
+[
+    {
+        "codigo": "V001",
+        "usuario": "Carla",
+        "producto": "Hamburguesa",
+        "fecha": "2026-09-27 20:09"
+    },
+    {
+        "codigo": "V002",
+        "usuario": "Ismael",
+        "producto": "Papas Fritas",
+        "fecha": "2026-09-27 20:13"
+    }
+]
